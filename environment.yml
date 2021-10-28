@@ -1,0 +1,6 @@
+name: python 3.8.3
+dependencies:
+  - python=3.8.3
+  - numpy
+  - pandas
+  - uk-covid19
