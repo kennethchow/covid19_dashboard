@@ -1,0 +1,7 @@
+voila>=0.2.16
+matplotlib
+ipywidgets
+pandas
+numpy
+json
+uk-covid19 
