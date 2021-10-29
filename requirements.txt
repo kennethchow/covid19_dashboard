@@ -1,7 +1,4 @@
-voila>=0.2.16
+voila
 matplotlib
-ipywidgets
 pandas
-numpy
-json
 uk-covid19 
